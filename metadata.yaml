@@ -1,0 +1,37 @@
+_repo: Tama-b-Japanilainen-lemmentarina_71435
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aaltio, Eetu
+    gutenberg_agent_id: '56231'
+    url: http://www.gutenberg.org/2009/agents/56231
+creator:
+  author:
+    agent_name: Watanna, Onoto
+    aliases:
+    - Babcock, Winnifred Eaton
+    - Reeve, Winnifred Eaton
+    - Eaton, Winnifred
+    - Reeve, Winifred Eaton
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '49587'
+    url: http://www.gutenberg.org/2009/agents/49587
+    wikipedia: https://en.wikipedia.org/wiki/Winnifred_Eaton_(writer)
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71435'
+language: fi
+pgterms:marc905: 20220326035819watanna
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin & Kumpp., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tama : $b Japanilainen lemmentarina'
+url: http://www.gutenberg.org/ebooks/71435
